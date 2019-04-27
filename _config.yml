@@ -3,3 +3,4 @@ title: Roll With Micole
 description: A blog to record and share my experiences.
 github:
   is_project_page: false
+permalink: /blog/:year/:month/:day/:title
