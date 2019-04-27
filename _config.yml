@@ -1,3 +1,5 @@
 theme: jekyll-theme-leap-day
 title: Roll With Micole
 description: A blog to record and share my experiences.
+github:
+  is_project_page: false
