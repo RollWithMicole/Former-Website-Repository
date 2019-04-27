@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: "I'm Back"
 date: 2019-04-27
 ---
