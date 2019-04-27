@@ -1,4 +1,4 @@
-theme: jekyll-theme-leap-day
+remote_theme: daattali / beautiful-jekyll
 title: Roll With Micole
 description: A blog to record and share my experiences.
 github:
